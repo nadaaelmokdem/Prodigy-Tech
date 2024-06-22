@@ -20,7 +20,7 @@ Follow the prompts to enter your message and key.
 The encrypted or decrypted message will be displayed.
 Password Complexity Checker:
 
-This Python program evaluates the strength of passwords based on various complexity criteria.
+This C++ program evaluates the strength of passwords based on various complexity criteria.
 Criteria: (You can customize these criteria as needed)
 Minimum length (e.g., 8 characters)
 Inclusion of uppercase letters, lowercase letters, numbers, and special symbols
