@@ -15,10 +15,7 @@ Encrypts and decrypts text messages using the Caesar cipher.
 Accepts user input for the message and key.
 Provides a command-line interface (CLI) for convenient interaction.
 To Use:
-Clone this repository: git clone https://github.com/<your-username>/prodigy-tech-cybersecurity.git
-Navigate to the project directory: cd prodigy-tech-cybersecurity
-Install dependencies (if any): pip install <package_name> (Replace <package_name> with any required packages)
-Run the script: python caesar_cipher.py (Replace caesar_cipher.py with the actual script name)
+Clone this repository: git clone https:(https://github.com/nadaaelmokdem/Prodigy-Tech.git)
 Follow the prompts to enter your message and key.
 The encrypted or decrypted message will be displayed.
 Password Complexity Checker:
